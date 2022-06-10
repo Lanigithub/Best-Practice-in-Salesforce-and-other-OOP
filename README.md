@@ -1,7 +1,8 @@
 ## Best-Practice-in-Salesforce:
+### " A good Salesforce architect knows how to use Apex. A great Salesforce architect knows when to not use Apex. "
 ( https://trailhead.salesforce.com/en/content/learn/modules/success-cloud-coding-conventions/improve-your-apex-code-sc)
 
-###The fifteen Apex commandments: 
+### The fifteen Apex commandments: 
 https://developer.salesforce.com/blogs/developer-relations/2015/01/apex-best-practices-15-apex-commandments
 
 ###  *** #8 Thou shalt have a happy balance between clicks and code
